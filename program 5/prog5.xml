@@ -1,0 +1,73 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="stylecss.css"?>
+<students>
+<student>
+	<name>
+	Mutton
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV16CS000
+	</usn>
+	<year>
+	2016
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	darshancc23@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+<student>
+	<name>
+	Chicken
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV15CS699
+	</usn>
+	<year>
+	2015
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	chicken@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering Mysore
+	</college>
+</student>
+<student>
+	<name>
+	Lord Sudipto
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	4VV1CS111
+	</usn>
+	<year>
+	2016
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	sudipta.ssc.3@gmail.com
+	</email>
+	<college>
+	Vidyavardhaka College of Engineering, Mysore
+	</college>
+</student>
+</students>
